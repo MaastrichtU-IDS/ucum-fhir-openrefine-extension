@@ -1,7 +1,7 @@
 # UCUM-FHIR OpenRefine GREL functions
 
-This repository is a extension that adds some of the functionality provided by
-the [UCUM-Java](https://github.com/FHIR/Ucum-java/tree/master) library to OpenRefine.
+This repository is an OpenRefine extension that adds some of the functionality provided by
+the [UCUM-Java](https://github.com/FHIR/Ucum-java/tree/master) library as GREL functions.
 
 ## Added GREL functions
 
